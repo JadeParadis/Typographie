@@ -16,4 +16,49 @@ html {
 /* ==========================================================================================================================================================
                                         ÉLÉMENTS
 ==========================================================================================*/
+
 /*---------BASE------*/
+
+.wrapper {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    margin: 0;
+    padding: 0;
+}
+
+/*---------TITRE ET PARAGRAPHES------*/
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700; 
+    font-size:2.25rem;
+    letter-spacing: 2.25rem;
+}
+
+h2 {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400; 
+    font-size: 2.25rem;
+}
+
+.slogan {
+    font-family: "Lato", sans-serif;
+    font-weight: 100;
+    font-style: 3rem;
+    letter-spacing: 5.5px;
+}
+
+
+
+
+
+
+
+
