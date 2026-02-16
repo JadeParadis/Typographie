@@ -97,6 +97,14 @@ header {
 
 /*---------SECTION CITATION------*/
 
+.slogan {
+    padding-top: 62px;
+    padding-bottom: 62px;
+}
+
+.slogan q  {
+    text-align: right;
+}
 
 
 
