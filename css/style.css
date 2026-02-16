@@ -37,8 +37,11 @@ h1 {
     font-family: "Roboto", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700; 
-    font-size:2.25rem;
-    letter-spacing: 2.25rem;
+    font-size: 6rem;
+    letter-spacing: 1.5rem;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 0%;
 }
 
 h2 {
@@ -77,7 +80,7 @@ footer p {
     font-weight: bold;
 }
 
-.bouton {
+p.bouton span {
     font-size: 3.125rem;
     width: 50px;
 }
@@ -86,9 +89,13 @@ footer p {
 
 header {
     padding-top: 62px;
-    padding-bottom: 62px;
+    padding-bottom: 62px; 
     background-color: #34495E;
+    padding-left: 165px;
+    padding-right: 165px;
 }
+
+
 
 
 
