@@ -55,7 +55,40 @@ h2 {
     letter-spacing: 5.5px;
 }
 
+.petitmot {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+}
 
+.info p {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto; 
+    line-height: 40px;
+}
+
+.info span {
+    font-weight: bold;
+}
+
+footer p {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+}
+
+.bouton {
+    font-size: 3.125rem;
+    width: 50px;
+}
+
+/*---------HEADER------*/
+
+header {
+    padding-top: 62px;
+    padding-bottom: 62px;
+    background-color: #34495E;
+}
 
 
 
