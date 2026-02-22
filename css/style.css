@@ -152,3 +152,20 @@ a:hover {
 .sec {
     grid-column: 2;
 }
+
+
+
+
+/*---------FOOTER------*/
+
+footer {
+    padding-top: 43px;
+    padding-bottom: 43px;
+    background-color: #2980B9;
+    margin: 0;
+}
+
+footer p {
+    margin: 0;
+    font-size: 1.25rem;
+}
