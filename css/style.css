@@ -144,7 +144,7 @@ a article:hover {
 .
 /*---------SECTION INFO------*/
 
-.info .information {
+.droite .information {
     display: grid;
     grid-template-columns: repeat(2, 1fr); 
 }
