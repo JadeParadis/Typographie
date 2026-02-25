@@ -61,8 +61,9 @@ h2 {
 .petitmot {
     font-family: "Quicksand", sans-serif;
     font-optical-sizing: auto;
+    font-size: 1.875rem;
     font-weight: bold;
-    color:#D35400;
+    color: #D35400;
 }
 
 .info p {
@@ -141,13 +142,37 @@ a article:hover {
     background-color: #BDC3C7;
 }
 
-.
+.droite {
+    display: flex;
+    justify-content: flex-start;
+}
+.petitmot {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+}
+.gauche {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+
+
 /*---------SECTION INFO------*/
- 
+
 .info .wrapper {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap:60px;
+    gap: 60px;
+}
+
+.info p {
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 1.25rem;
 }
 
 
