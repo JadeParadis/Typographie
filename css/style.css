@@ -143,15 +143,13 @@ a article:hover {
 
 .
 /*---------SECTION INFO------*/
-
+ 
 .info .wrapper {
     display: grid;
-    grid-template-columns: 1fr 1fr; 
+    grid-template-columns: 1fr 1fr;
+    gap:60px;
 }
 
-.sec {
-    grid-column: 2;
-}
 
 
 
